@@ -1,4 +1,4 @@
-# THESIS__Modeling_Heterogeneous_Periodicity_Using_LSTM_Networks
+## THESIS__Modeling_Heterogeneous_Periodicity_Using_LSTM_Networks
 
 A Thesis in the Field of Mathematics and Computation
 
