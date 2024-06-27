@@ -1,4 +1,4 @@
-## THESIS__Time_Series_Modeling_Using_LSTM_Networks
+## THESIS_Modeling_IoT_Time_Series_Data
 
 A Thesis in the Field of Mathematics and Computation
 
