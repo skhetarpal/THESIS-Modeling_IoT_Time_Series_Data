@@ -1,4 +1,4 @@
-## THESIS_Modeling_IoT_Time_Series_Data
+## Thesis Project
 
 A Thesis in the Field of Mathematics and Computation
 
